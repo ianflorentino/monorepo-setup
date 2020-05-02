@@ -1,0 +1,5 @@
+# Monorepo Setup
+
+```
+yarn start
+```
